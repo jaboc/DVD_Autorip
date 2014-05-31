@@ -3,7 +3,7 @@
 
 __version__ = "1"
 __date__ = "Fri Jun 26 23:54:39 EDT 2009"
-__license__ = "GPL v3"
+__license__ = "GPL v2"
 
 import os
 import subprocess
